@@ -1,7 +1,7 @@
 # Simple Task Manager
 
 Made this to familiarize how to start a PostgreSQL database by using docker container. 
-Also planning to add API endpoints for this and OpenAPI specifications.
+Also planning to add REST API endpoints for this and OpenAPI specifications.
 
 Starting simple task manager built with Go and PostgreSQL database. 
 
